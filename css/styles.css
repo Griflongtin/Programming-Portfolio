@@ -17,6 +17,8 @@ body {
   border-bottom: 1px solid white;
 }
 .panel-body {
+  margin-left: 60px;
+  margin-right: 60px;
   color: #9d9d9d;
 }
 .panel-footer {
