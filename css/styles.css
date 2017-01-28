@@ -8,19 +8,20 @@ body {
   background-color: 	#282828;
   font-family: fantasy;
 }
+.panel {
+  background-color: #222;
+}
 .panel-heading {
   text-align: center;
-  background-color: #222;
   color: green;
   border-bottom: 1px solid white;
 }
 .panel-body {
-  background-color: #222;
   color: #9d9d9d;
 }
 .panel-footer {
+  background-color: 	#282828;
   text-align: center;
-  background-color: #222;
   color: red;
 }
 .navbar-bottom-edge {
