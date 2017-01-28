@@ -9,19 +9,16 @@ body {
   font-family: fantasy;
 }
 .panel-heading {
-  font-weight: bolder;
   text-align: center;
   background-color: #222;
   color: green;
   border-bottom: 1px solid white;
 }
 .panel-body {
-  font-weight: bolder;
   background-color: #222;
   color: #9d9d9d;
 }
 .panel-footer {
-  font-weight: bolder;
   text-align: center;
   background-color: #222;
   color: red;
@@ -29,4 +26,16 @@ body {
 .navbar-bottom-edge {
   position: absolute;
   bottom: auto;
+}
+.pic1 {
+  float: left;
+}
+.pic2 {
+  float: right;
+}
+strong {
+  font-weight: bolder;
+}
+span {
+  color: blue;
 }
