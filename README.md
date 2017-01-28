@@ -7,7 +7,7 @@
 This website has all of my web programs.
 
 ##  Setup/Installation Requirements
-* Open your browser and at the top type in :
+* Open your browser and at the top type in: https://griflongtin.github.io/Programming-Portfolio/index.html
 
 ## Support and contact details
 
