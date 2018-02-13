@@ -16,7 +16,7 @@ _Displays a portfolio about me_
 * Copy and paste this:
 * cd ~
 * cd desktop
-* git clone https://github.com/Griflongtin/Unit-367.git
+* git clone https://github.com/Griflongtin/Programming-Portfolio.git
 
 * Then open the HTML file in the folder
 
